@@ -1,14 +1,14 @@
 {
-  "siteName": "Image2PDF",
-  "shortName": "Image2PDF",
+  "siteName": "ImageToPDF Pro",
+  "shortName": "ImageToPDF Pro",
   "tagline": "Convert images to PDF online for free. Fast, private and runs locally.",
-  "description": "Convert images to PDF online for free. Combine JPG, PNG, JPEG and WEBP images into a single PDF. Fast, private and easy to use with Image2PDF.",
+  "description": "ImageToPDF Pro is a free online image-to-PDF converter that combines multiple JPG, PNG, JPEG, and WEBP images into one PDF file. Everything is processed locally in your browser, so your images never need to be uploaded.",
 
-  "siteUrl": "https://image2pdf.vercel.app",
+  "siteUrl": "https://imagetopdfpro.vercel.app",
   "basePath": "",
 
   "contactEmail": "",
-  "githubRepo": "",
+  "githubRepo": "vanshja1n/image2pdf",
   "indexNowKey": "",
 
   "adsense": {

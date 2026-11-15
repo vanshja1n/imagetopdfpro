@@ -2,11 +2,11 @@
  * The VERSION, BASE and PRECACHE placeholders below are filled in by build.mjs.
  * Only same-origin GET requests are handled; ads and analytics always go to the network.
  */
-const VERSION = '3577fd68b53e';
+const VERSION = '856fe9a5f4ac';
 const BASE = '';
 const PRECACHE = [
   "/",
-  "/assets/css/style.css?v=72f897ea6d",
+  "/assets/css/style.css?v=feb4251531",
   "/assets/js/contact.js?v=d9cc79c585",
   "/assets/js/pdf-writer.js?v=1c227010de",
   "/assets/js/zip.js?v=598c3d4111",

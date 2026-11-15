@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://image2pdf.vercel.app/sitemap.xml
+Sitemap: https://imagetopdfpro.vercel.app/sitemap.xml

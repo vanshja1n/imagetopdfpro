@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "Image2PDF",
-  "short_name": "Image2PDF",
-  "description": "Convert images to PDF online for free. Combine JPG, PNG, JPEG and WEBP images into a single PDF. Fast, private and easy to use with Image2PDF.",
+  "name": "ImageToPDF Pro",
+  "short_name": "ImageToPDF Pro",
+  "description": "ImageToPDF Pro is a free online image-to-PDF converter that combines multiple JPG, PNG, JPEG, and WEBP images into one PDF file. Everything is processed locally in your browser, so your images never need to be uploaded.",
   "lang": "en",
   "dir": "ltr",
   "start_url": "/?source=pwa",

@@ -452,7 +452,7 @@ function jsonLd(page, ctx) {
       '@id': `${cfg.fullUrl}/#website`,
       url: `${cfg.fullUrl}/`,
       name: cfg.siteName,
-      description: 'Convert images to PDF online for free. Combine JPG, PNG, JPEG and WEBP images into a single PDF. Fast, private and easy to use.',
+      description: cfg.description,
       inLanguage: 'en',
     },
     {
@@ -500,6 +500,12 @@ function renderDocument(page, ctx, partials) {
   const html = `<!doctype html>
 <html lang="en" data-base="{{base}}">
 <head>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-WG2NB94K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>${escapeHtml(title)}</title>
@@ -557,12 +563,6 @@ ${
   cfg.adsense.pub
     ? `<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-${cfg.adsense.pub}" crossorigin="anonymous"></script>`
-    : ''
-}
-${
-  cfg.analytics.ga4MeasurementId
-    ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${escapeHtml(cfg.analytics.ga4MeasurementId)}"></script>
-<script>gtag('js',new Date());gtag('config','${escapeHtml(cfg.analytics.ga4MeasurementId)}');</script>`
     : ''
 }
 </head>
