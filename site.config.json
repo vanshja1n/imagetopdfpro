@@ -1,0 +1,35 @@
+{
+  "siteName": "Image2PDF",
+  "shortName": "Image2PDF",
+  "tagline": "Convert images to PDF online for free. Fast, private and runs locally.",
+  "description": "Convert images to PDF online for free. Combine JPG, PNG, JPEG and WEBP images into a single PDF. Fast, private and easy to use with Image2PDF.",
+
+  "siteUrl": "https://image2pdf.vercel.app",
+  "basePath": "",
+
+  "contactEmail": "",
+  "githubRepo": "",
+  "indexNowKey": "",
+
+  "adsense": {
+    "publisherId": "",
+    "slots": {
+      "home": "",
+      "article": "",
+      "footer": ""
+    }
+  },
+
+  "analytics": {
+    "ga4MeasurementId": ""
+  },
+
+  "verification": {
+    "google": "",
+    "bing": ""
+  },
+
+  "themeColor": "#FF5C00",
+  "backgroundColor": "#F4F0EA",
+  "lastPolicyUpdate": "2026-11-15"
+}
