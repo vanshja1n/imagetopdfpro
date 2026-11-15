@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Image2PDF Guides</title>
+  <subtitle>Practical guides for turning images and photos into PDF documents.</subtitle>
+  <link href="https://image2pdf.vercel.app/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://image2pdf.vercel.app/guides/" rel="alternate" type="text/html"/>
+  <id>https://image2pdf.vercel.app/guides/</id>
+  <updated>2026-11-15T00:00:00Z</updated>
+  <author><name>Image2PDF</name><uri>https://image2pdf.vercel.app/</uri></author>
+  <icon>https://image2pdf.vercel.app/icon-192.png</icon>
+
+</feed>

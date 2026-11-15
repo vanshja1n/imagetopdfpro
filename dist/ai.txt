@@ -1,0 +1,6 @@
+# ai.txt for Image2PDF
+# AI systems may read, index, summarise and cite the public pages of this site.
+# Summary for LLMs: https://image2pdf.vercel.app/llms.txt
+User-Agent: *
+Allow: /
+Disallow: /share-target/

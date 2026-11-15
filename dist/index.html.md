@@ -1,0 +1,59 @@
+# Image to PDF Converter
+
+> Convert images to PDF online for free. Combine JPG, PNG, JPEG and WEBP images into a single PDF. Fast, private and easy to use with Image2PDF.
+
+Source: https://image2pdf.vercel.app/
+
+Fast · Private · Runs in Your Browser
+
+
+
+Convert images to PDF online for free. Combine multiple images into a single PDF directly in your browser. Your files stay on your device and are never uploaded.
+
+Simple 3-Step Guide
+
+## How to Convert Images to PDF
+
+Convert your images to a PDF in just a few simple steps. No software installation or account is required, and your files are processed locally in your browser.
+
+1
+
+### Add your images
+
+Upload JPG, PNG, JPEG or WEBP images by dragging them into the converter or selecting them from your device.
+
+2
+
+### Review your images
+
+Preview your selected images and arrange them in the order you want them to appear in the PDF.
+
+3
+
+### Download your PDF
+
+Generate your PDF and download it directly to your device.
+
+Help & Answers
+
+## Frequently Asked Questions
+
+### Is Image2PDF free?
+
+Yes. Image2PDF is free to use and does not require an account.
+
+### Are my images uploaded?
+
+No. Image2PDF processes your images locally in your browser, so the files do not need to be uploaded to a server.
+
+### Which image formats are supported?
+
+Image2PDF currently supports PNG, JPG, JPEG and WEBP images.
+
+### Can I convert multiple images into one PDF?
+
+Yes. You can select multiple supported images and combine them into a single PDF.
+
+### Can I change the order of my images?
+
+Yes. Arrange your selected images in the desired order before generating the PDF.
